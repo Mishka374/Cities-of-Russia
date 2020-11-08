@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+	background-color: #143214;
+}
+#heading{
+	width: auto;
+	background-color: #234123;
+	padding: 15px;
+	font-size: 22px;
+	font-weight: 900;
+}
+#base{
+	margin: 0 auto;
+	width: 1050px;
+}
+a{
+	color: #C8C8C8;
+	text-decoration: none;
+}
+.block{
+	float: left;
+	margin: 10px 0px 10px 10px;
+}
+#menu{
+	width: 200px;
+}
+#information{
+	font-size: 16px;
+	height: auto;
+	padding: 10px;
+	width: 600px;
+	background-color: #234123;
+	color: #FFFFFF;
+}
+#explanations{
+	width: 200px;
+	margin-left: 10px;
+}
+.link{
+	font-size: 16px;
+	padding: 8px;
+}
+.link:hover{
+	background-color: #234123;
+}
+img{
+	width: 600px;
+	margin: 10px 0px 10px 0px;
+}
+.comment{
+	font-size: 10px;
+	color: #AAAAAA);
+}
